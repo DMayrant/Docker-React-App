@@ -54,5 +54,7 @@ starting the react application
 
 ### `docker logs -f <container_ID>
 
+![image alt](https://github.com/DMayrant/Docker-React-App/blob/main/image2.png?raw=true)
+
 
 
