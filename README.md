@@ -39,3 +39,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+Containerizing the image
+
+### `docker build -t <image_name>:port .
+
+Port mapping the containerized image in detached mode
+
+### `docker run --rm -d -p 9000:80 <image_name>:<tag>
+
+starting the react application
+
+### `docker logs -f <container_ID>
+
+
+
