@@ -41,7 +41,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Containerizing the image
 
-### `docker build -t <image_name>:port .
+### `docker build -t react-app:vanilla .
+
+![image alt](https://github.com/DMayrant/Docker-React-App/blob/main/image1.png?raw=true)
+
 
 Port mapping the containerized image in detached mode
 
