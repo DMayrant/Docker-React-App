@@ -45,7 +45,7 @@ Containerizing the image
 
 Port mapping the containerized image in detached mode
 
-## `docker run --rm -d -p 9000:80 react-app:vanilla
+## `docker run --rm -d -p 9001:80 react-app:vanilla
 
 starting the react application
 
