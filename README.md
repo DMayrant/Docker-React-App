@@ -1,4 +1,4 @@
-# ☁️This project focuses on container rising react application 
+# ☁️This project focuses on containerizing react applications
 
 # Containerize-React-App 🐳
 
